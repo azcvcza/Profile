@@ -40,6 +40,11 @@ some of the project finished
 3.CSS效果实践
 [css效果学习-deep-css](https://azcvcza.github.io/deep_css/)
 
+### JavaScript
+
+1.仿JQuery dom-selector 
+[dom-selector](https://github.com/azcvcza/dom_selector)
+
 ### JQuery
 
 1.JQuery 无限瀑布流动
@@ -66,3 +71,12 @@ some of the project finished
 
 5.Vue-Budget1 Vue+Vue-router+vuex+bulma.css 记账/借贷/Transaction
 [Vue-Budget1](https://azcvcza.github.io/Vue-Budget1/#/)
+
+6.Vue-CardGame Vue+tween.js 简单卡牌游戏
+[CardGame](https://azcvcza.github.io/vue_learning/)
+
+
+### IFE2018
+
+1.百度前端学院 IFE2018项目
+[IFE2018](https://github.com/azcvcza/IFE2018-WEB)
