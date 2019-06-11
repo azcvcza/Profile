@@ -1,2 +1,68 @@
 # Profile
 Profile
+
+some of the project finished
+
+### HTML
+
+1.为一个德国校友会写的首页，虽然最后没用上
+[为一个德国校友会写的首页](https://azcvcza.github.io/html_template-1/)
+
+2.Date-picker 简单的日历挑选组件
+[日历](https://azcvcza.github.io/Date_Picker/)
+
+3.Codecamp-PersonalPortfolio 项目展示页
+[PersonalProfile](https://azcvcza.github.io/RWDP_PersonalPortfolioWebpage/)
+
+4.Codecamp-TributePage 人物介绍页
+[TributePage](https://azcvcza.github.io/RWDP_TributePage/)
+
+5.Codecamp-TechnicalDocumentPage JavaScript技术文档
+[TechnicalDocumentPage](https://azcvcza.github.io/RWDP_TechnicalDocumentPage/)
+
+6.Codecamp-SurveyForm 表单设计
+[SurveyForm](https://azcvcza.github.io/RWDP_SurveyForm/)
+
+7.Codecamp-ProductLandingPage 产品展示页面
+[ProductLandingPage](https://azcvcza.github.io/RWDP_Product-Landing-age/)
+
+
+
+
+### CSS
+
+1.CSS效果学习
+[css效果学习-effected-fe](https://azcvcza.github.io/EFFECTED_FRONT_END/)
+
+2.CSS 制作tooltip
+[tooltip](https://azcvcza.github.io/CSS_ToolTip/)
+
+3.CSS效果实践
+[css效果学习-deep-css](https://azcvcza.github.io/deep_css/)
+
+### JQuery
+
+1.JQuery 无限瀑布流动
+[瀑布流动](https://azcvcza.github.io/jquery_waterfall/)
+
+### D3
+
+1.D3 scarlletPlot 散点
+[散点](https://azcvcza.github.io/d3_project/)
+
+### Vue
+
+1.Vue-chartJs Vue+Vue-chartJs 查询github上包的下载量并可视化
+[Vue-chartJs](https://azcvcza.github.io/Vue-chartJS/#/)
+
+2.Vue-LazyLoad 使用视点查询(observer)来进行懒加载图片
+[Vue-LazyLoad](https://azcvcza.github.io/Vue-LazyLoad/)
+
+3.Vue-d3map Vue+d3tile实现的地图展示
+[Vue-d3map](https://azcvcza.github.io/Vue-d3map/)
+
+4.Vue-TweetsLike 仿Tweeter界面
+[Vue-TweetsLike](https://azcvcza.github.io/Vue-TweetsLike/)
+
+5.Vue-Budget1 Vue+Vue-router+vuex+bulma.css 记账/借贷/Transaction
+[Vue-Budget1](https://azcvcza.github.io/Vue-Budget1/#/)
