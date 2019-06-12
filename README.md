@@ -2,6 +2,7 @@
 Profile
 
 some of the project finished
+[Profile Preview](https://azcvcza.github.io/Profile/)
 
 ### HTML
 
