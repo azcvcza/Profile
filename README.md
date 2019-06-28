@@ -41,6 +41,9 @@ some of the project finished
 3.CSS效果实践
 [css效果学习-deep-css](https://azcvcza.github.io/deep_css/)
 
+
+4.CSS3 制作立方体
+[制作立方体](https://azcvcza.github.io/CSS_3dcube/)
 ### JavaScript
 
 1.仿JQuery dom-selector 
