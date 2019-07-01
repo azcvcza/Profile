@@ -1,7 +1,7 @@
 # Profile
 Profile
 
-some of the project finished
+已完成的一些项目，汇总
 [Profile Preview](https://azcvcza.github.io/Profile/)
 
 ### HTML
