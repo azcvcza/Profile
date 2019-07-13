@@ -53,6 +53,9 @@ Profile
 
 7.CSS3 制作图像爆炸特效
 [图像爆炸特效](https://azcvcza.github.io/CSS_Explosion/)
+
+8.Canvas 消除
+[消除](https://azcvcza.github.io/CANVAS_Zero/)
 ### JavaScript
 
 1.仿JQuery dom-selector 
