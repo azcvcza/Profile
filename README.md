@@ -56,6 +56,9 @@ Profile
 
 8.Canvas 消除
 [消除](https://azcvcza.github.io/CANVAS_Zero/)
+
+9.CSS 渐变背景
+[CSS 渐变背景](https://azcvcza.github.io/CSS_Explosion/)
 ### JavaScript
 
 1.仿JQuery dom-selector 
