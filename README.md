@@ -64,6 +64,8 @@ Profile
 1.仿JQuery dom-selector 
 [dom-selector](https://github.com/azcvcza/dom_selector)
 
+2.Js 一颗赛艇遗传算法
+[搞个大新闻](https://azcvcza.github.io/JS_plus1S/)
 ### JQuery
 
 1.JQuery 无限瀑布流动
